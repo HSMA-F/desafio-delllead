@@ -1,0 +1,11 @@
+.cards {
+  padding: 2px;
+
+  background-color: rgb(43, 74, 107);
+}
+.MuiCardContent-root {
+  background-color: rgb(63, 101, 141);
+}
+.MuiTypography-root {
+  background-color: rgb(63, 101, 141);
+}

@@ -1,0 +1,36 @@
+.search{
+  width: 100%;
+  display: flex;
+}
+.pesquisa{
+  width: 25%;
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+}
+.pesquisa .textField{
+  width: 100%;
+  padding: 0;
+}
+.cards {
+  display: inline-block;
+}
+.genero {
+  width: 50%;
+  margin-left: 0px;
+  padding: 0;
+  display: inline-block;
+}
+.genero button{
+  height: 56px;
+  font-size: 10px;
+  margin-right: 10px;
+}
+.populares {
+  width: 25%;
+  display: inline-block;
+}
+.populares button{
+  height: 56px;
+  font-size: 10px;
+}
