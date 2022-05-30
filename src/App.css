@@ -3,5 +3,6 @@ html {
   padding: 0px;
   width: 100%;
   text-align: center;
-  background-color: rgb(43, 74, 107);
+  background: rgb(9,64,121);
+  background: linear-gradient(90deg, rgba(9,64,121,0.9979342078628326) 0%, rgba(0,121,255,1) 100%);
 }

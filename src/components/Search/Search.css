@@ -25,6 +25,7 @@
   height: 56px;
   font-size: 10px;
   margin-right: 10px;
+  color: black;
 }
 .populares {
   width: 25%;
@@ -33,4 +34,12 @@
 .populares button{
   height: 56px;
   font-size: 10px;
+  color: black;
+}
+.header{background: rgb(9,64,121);
+  background: linear-gradient(90deg, rgba(9,64,121,0.9979342078628326) 0%, rgba(0,121,255,1) 100%);
+}
+*{
+  margin: 0;
+  padding: 0;
 }
